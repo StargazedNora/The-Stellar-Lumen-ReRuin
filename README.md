@@ -1,4 +1,4 @@
-# THe Stellar Lumen: Refurbished Ruin
+# The Stellar Lumen: Refurbished Ruin
 
 This is a remake of an old game by one of my friends, polishing the overall quality of the game as well as changing a couple components (especially late-endgame).
 Currently this is what I have planned (in order):
