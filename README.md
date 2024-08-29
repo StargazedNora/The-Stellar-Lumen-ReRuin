@@ -9,12 +9,12 @@ Currently this is what I have planned (in order):
 
 I hardly have any experience with coding, I've only ever used scratch.mit 😭.
 I will update very slowly, but please be patient and trust that I'm trying my best.
-Credits to Citrine for the original game!
+Credits to Citrine for [the original game](https://raw.githack.com/Lun4-R/The-Stellar-Lumen/bbefe40d860df7ea41515e86cc84ecfc4104f253/index.html)!
 
 # This uses The-Modding-Tree!!!
 
 An incremental game engine based on The Prestige Tree. It still requires programming knowledge, but it's mostly pretty easy things and copy/pasting.
 
-[Look here for a tutorial on getting started with modding with TMT](docs/tutorials/getting-started.md)
+[Look here for a tutorial on getting started with modding with TMT](https://github.com/Acamaeda/The-Modding-Tree/blob/master/docs/tutorials/getting-started.md)
 
-You can look in the [documentation](docs/!general-info.md) for more information on how it all works, or look at the code in layers.js to see what it all looks like.
+You can look in the [documentation](https://github.com/Acamaeda/The-Modding-Tree/blob/master/docs/!general-info.md) for more information on how it all works, or look at the code in layers.js to see what it all looks like.
